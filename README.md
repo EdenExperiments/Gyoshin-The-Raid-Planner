@@ -14,5 +14,7 @@ Allow users to sign up to parties using emjoi reactions.
 
 Expand available roles to include limited Jobs (Blue Mage).
 
+General refactor of code to improve responsiveness.
+
 
 
