@@ -51,6 +51,8 @@ Dismiss, used to dismiss a member from the run example use: !Dismiss TestRaid Da
 
 Complete Beta testing with members of FFXIV discord (3000 people in channel), analyse feedback and develop roadmap further and debug my commands where required. 
 
+Allow creation of parties with just !Create and use best agreed format
+
 Allow users to sign up to parties using emjoi reactions. 
 
 Expand available roles to include limited Jobs (Blue Mage).
