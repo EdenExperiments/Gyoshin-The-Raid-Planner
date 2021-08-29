@@ -9,7 +9,9 @@ Users can join raids, by choosing specific roles, withdraw from raids, cancel ra
 ## Developer RoadMap:
 
 Complete Beta testing with members of FFXIV discord (3000 people in channel), analyse feedback and develop roadmap further and debug my commands where required. 
+
 Allow users to sign up to parties using emjoi reactions. 
+
 Expand available roles to include limited Jobs (Blue Mage).
 
 
