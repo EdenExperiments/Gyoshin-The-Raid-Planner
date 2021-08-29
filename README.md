@@ -10,9 +10,9 @@ Users can join raids, by choosing specific roles, withdraw from raids, cancel ra
 
 The following commands are available (all times must be provided in UTC time for the bot to function properly):
 
-!Create, used to create a run example use without template: \n
-!Create TestRaid !DateTime 01-08-2021 19:00 !NrOfPlayers 24 !NrOfTanks 3 !NrOfDps 15 !NrOfHealers 6 !Role Tank \n
-Example use with template: \n
+!Create, used to create a run example use without template: 
+!Create TestRaid !DateTime 01-08-2021 19:00 !NrOfPlayers 24 !NrOfTanks 3 !NrOfDps 15 !NrOfHealers 6 !Role Tank
+Example use with template: 
 !Create TestRaid !DateTime 01-08-2021 19:00 !Template Raid !Role Tank 
 
 !Join, used to sign yourself up for a raid example use: !Join TestRaid !DateTime 01-08-2021 19:00 !Role Tank 
@@ -25,7 +25,7 @@ Example use with template: \n
 
 !Runs, used to retrieve all runs planned on a specific date example use: !Runs 01-08-2021
 
-!Reschedule, used to reschedule the run to another date example use:\n !Reschedule TestRaid !DateTime 04-08-2021 19:00 !NewDateTime 10-08-2021 19:00 (only the organizer of the run is allowed to reschedule)
+!Reschedule, used to reschedule the run to another date example use: !Reschedule TestRaid !DateTime 04-08-2021 19:00 !NewDateTime 10-08-2021 19:00 (only the organizer of the run is allowed to reschedule)
 
 !ChangeRole, used to change the role you signed up as for the run example use: !ChangeRole TestRaid !DateTime 01-08-2021 19:00 !Role Tank
 
@@ -35,7 +35,7 @@ Example use with template: \n
 
 !Roles, lists all available roles example use: !Roles
 
-!Rally, used to tag all signed up members to a run example use:\n !Rally TestRaid !DateTime 04-08-2021 19:00 (this command only works from 1 hour before the start time of the run until the start time)
+!Rally, used to tag all signed up members to a run example use: !Rally TestRaid !DateTime 04-08-2021 19:00 (this command only works from 1 hour before the start time of the run until the start time)
 
 Dismiss, used to dismiss a member from the run example use: !Dismiss TestRaid DateTime 04-08-2021 19:00 !User UserName (only the organizer of the run is allowed to dismiss members)
 
