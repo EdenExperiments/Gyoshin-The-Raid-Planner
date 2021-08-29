@@ -16,5 +16,5 @@ Expand available roles to include limited Jobs (Blue Mage).
 
 General refactor of code to improve responsiveness.
 
-
+### not all files are on github, such as packages, just main programmed files for reference
 
