@@ -53,7 +53,7 @@ Dismiss, used to dismiss a member from the run example use: !Dismiss TestRaid Da
 
 ## Developer RoadMap:
 
-Complete Beta testing with members of FFXIV discord (3000 people in channel), analyse feedback and develop roadmap further and debug my commands where required. 
+Complete Beta testing with members of FFXIV discord, analyse feedback and develop roadmap further and debug my commands where required. 
 
 Allow creation of parties with just !Create and use best agreed format
 
