@@ -1,4 +1,4 @@
-# Gyoshin-The-Raid-Planner
+# Gyoshin-The-Raid-Planner ALPHA
 
 Disclaimer: Gyoshin was project managed by Martijin Bos, not myself. I would like to thank Martijin for inviting me to their project and giving me a chance to gain some experience on a more complex real life project. My additions to the bot so far are: General help in design, !Create command, !Join command, !Cancel command, !Rally command, Developer testing commands and helper functions, debugging, analysing current beta feedback. I would also like to thank them for teaching me about the database side of the project. Initial versions of commands i created up to BETA release were mostly programmed myself (with a few UI edits by Martijin), with Martijin pushing me to use resources and other commands for guidance when stuck but not outright giving me answers, and also giving guidance on how to refactor code to look more polished and handle errors better once code was functional. I will be assisting further by debugging bugs found in beta, and continuing to add more features. 
 
@@ -6,9 +6,9 @@ Gyoshin is a Discord Bot, initially created to help my Final Fantasy XIV server 
 
 Users can join raids, by choosing specific roles, withdraw from raids, cancel raids if they are the organiser, and rally the users within one hour of the set datetime of the event.
 
-### Link to Bot 
+### Gyoshin has increased in scope, and code has been refactored largely, I have left this repository up to show my initial programmed commands, below find a link to the current Gyoshin repository
 
-Link will be here once bot is out of beta
+add link once new repo is up
 
 ## Current Commands
 
@@ -53,7 +53,7 @@ Dismiss, used to dismiss a member from the run example use: !Dismiss TestRaid Da
 
 ## Developer RoadMap:
 
-Complete Beta testing with members of FFXIV discord, analyse feedback and develop roadmap further and debug my commands where required. 
+Complete beta testing with members of FFXIV discord, analyse feedback and develop roadmap further and debug my commands where required. 
 
 Allow creation of parties with just !Create and use best agreed format
 
