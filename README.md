@@ -6,9 +6,9 @@ Gyoshin is a Discord Bot, initially created to help my Final Fantasy XIV server 
 
 Users can join raids, by choosing specific roles, withdraw from raids, cancel raids if they are the organiser, and rally the users within one hour of the set datetime of the event.
 
-### Gyoshin has increased in scope (such as using reactions, and moving error messages and moving raid creation to DMs once !create is called, and code has been refactored largely, I have left this repository up to show my initial programmed commands, below find a link to the current Gyoshin repository
+### Gyoshin has increased in scope (such as using reactions, and moving error messages and moving raid creation to DMs once !create is called, and code has been refactored largely, I have left this repository up to show my initial programmed commands, below find a link to the current Gyoshin repository once complete and not privae
 
-add link once new repo is up
+- Link will be here once Gyoshin is out of beta
 
 ## Current Commands
 
